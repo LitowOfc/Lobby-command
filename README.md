@@ -1,4 +1,4 @@
-# Hub cmd | Pocketmine-MP 2.0.0 | MCPE v0.14 - 0.15.10
+# Lobby cmd | Pocketmine-MP 2.0.0 | MCPE v0.14 - 0.15.10
  A plugin for the __/lobby__ and __/hub__ commands. These commands teleport players to the server's default world.
 
 
